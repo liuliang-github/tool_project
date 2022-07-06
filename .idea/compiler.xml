@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-security-csrf" />
+        <module name="token_login" />
+        <module name="manydatasource" />
+        <module name="spring-security-customauth" />
+        <module name="spring-web-security" />
+        <module name="cookie_login" />
+        <module name="session_login" />
+        <module name="jwt_login" />
+        <module name="common-test" />
+        <module name="spring-security-cloud" />
+        <module name="common2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
+      <module name="common-test" target="1.8" />
+      <module name="common2" target="1.8" />
+      <module name="cookie_login" target="1.8" />
+      <module name="jwt_login" target="1.8" />
+      <module name="manydatasource" target="1.8" />
+      <module name="session_cookie_login" target="1.8" />
+      <module name="session_login" target="1.8" />
+      <module name="spring-security-cloud" target="1.8" />
+      <module name="spring-security-csrf" target="1.8" />
+      <module name="spring-security-customauth" target="1.8" />
+      <module name="spring-web-security" target="1.8" />
+      <module name="token_login" target="1.8" />
+      <module name="tool_project" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common-test" options="-parameters" />
+      <module name="common2" options="-parameters" />
+      <module name="cookie_login" options="-parameters" />
+      <module name="jwt_login" options="-parameters" />
+      <module name="manydatasource" options="-parameters" />
+      <module name="session_cookie_login" options="-parameters" />
+      <module name="session_login" options="-parameters" />
+      <module name="spring-security-cloud" options="-parameters" />
+      <module name="spring-security-csrf" options="-parameters" />
+      <module name="spring-security-customauth" options="-parameters" />
+      <module name="spring-web-security" options="-parameters" />
+      <module name="token_login" options="-parameters" />
+      <module name="tool_project" options="-parameters" />
+    </option>
+  </component>
+</project>

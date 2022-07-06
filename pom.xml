@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<modules>
+		<module>common2</module>
+		<module>common-test</module>
+		<module>cookie_login</module>
+		<module>session_login</module>
+		<module>token_login</module>
+		<module>jwt_login</module>
+		<module>spring-web-security</module>
+		<module>spring-security-csrf</module>
+        <module>spring-security-cloud</module>
+        <module>spring-security-customauth</module>
+		<module>manydatasource</module>
+    </modules>
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.6.8</version>
+		<relativePath/> <!-- lookup parent from repository -->
+
+	</parent>
+	<groupId>com.liuliu</groupId>
+	<artifactId>tool_project</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>tool_project</name>
+	<description>a tool collect</description>
+
+	<packaging>pom</packaging>
+
+	<properties>
+		<java.version>1.8</java.version>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+	</dependencies>
+
+</project>

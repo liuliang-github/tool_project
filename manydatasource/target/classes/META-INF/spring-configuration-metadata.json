@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource.db1",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.liuliu.manydatasource.configs.DataSourceConfig1",
+      "sourceMethod": "getDb1DataSource()"
+    },
+    {
+      "name": "spring.datasource.db2",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.liuliu.manydatasource.configs.DataSourceConfig2",
+      "sourceMethod": "getDb1DataSource()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

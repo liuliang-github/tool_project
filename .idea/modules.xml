@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-test/common-test.iml" filepath="$PROJECT_DIR$/common-test/common-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common2/common2.iml" filepath="$PROJECT_DIR$/common2/common2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie_login/cookie_login.iml" filepath="$PROJECT_DIR$/cookie_login/cookie_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwt_login/jwt_login.iml" filepath="$PROJECT_DIR$/jwt_login/jwt_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manydatasource/manydatasource.iml" filepath="$PROJECT_DIR$/manydatasource/manydatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_login/session_login.iml" filepath="$PROJECT_DIR$/session_login/session_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-cloud/spring-security-cloud.iml" filepath="$PROJECT_DIR$/spring-security-cloud/spring-security-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-csrf/spring-security-csrf.iml" filepath="$PROJECT_DIR$/spring-security-csrf/spring-security-csrf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-customauth/spring-security-customauth.iml" filepath="$PROJECT_DIR$/spring-security-customauth/spring-security-customauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-web-security/spring-web-security.iml" filepath="$PROJECT_DIR$/spring-web-security/spring-web-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/token_login/token_login.iml" filepath="$PROJECT_DIR$/token_login/token_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tool_project.iml" filepath="$PROJECT_DIR$/tool_project.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6bc7d4a-e3e1-4e2b-9ba7-c1ff2e52d7fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AIQlWBzalbCBQ9DjhpvFmn9krC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.liuliu.custom_auth.controller" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.liuliu.token_login.interceptor" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.liuliu.custom_auth.configs" />
+      <recent name="com.liuliu.custom_auth.entity.security" />
+      <recent name="com.liuliu.commontest.entity" />
+      <recent name="com.liuliu.custom_auth.entity" />
+      <recent name="com.liuliu.custom_auth.service.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\workspace\tool_project\spring-security-cloud\src\main\java\com\liuliu\springsecuritycloud" />
+      <recent name="D:\Users\workspace\tool_project\spring-web-security\src\main\resources\templates" />
+      <recent name="D:\Users\workspace\tool_project\spring-security-csrf\src\main\resources" />
+      <recent name="D:\Users\workspace\tool_project\spring-security-csrf\src\main\java" />
+      <recent name="D:\Users\workspace\tool_project\spring-web-security\src\main\java\com\liuliu\springsecurityweb\configs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CustomApplication">
+    <configuration name="CustomerUserNameAuthenticationProvider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuliu.custom_auth.security.CustomerUserNameAuthenticationProvider" />
+      <module name="spring-security-customauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuliu.custom_auth.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuliu.common_util.utils.MD5Util" />
+      <module name="common2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuliu.common_util.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonTestApplicationTests.testException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="common-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuliu.commontest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liuliu.commontest" />
+      <option name="MAIN_CLASS_NAME" value="com.liuliu.commontest.CommonTestApplicationTests" />
+      <option name="METHOD_NAME" value="testException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonTestApplicationTests.testProperties" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="common-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuliu.commontest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liuliu.commontest" />
+      <option name="MAIN_CLASS_NAME" value="com.liuliu.commontest.CommonTestApplicationTests" />
+      <option name="METHOD_NAME" value="testProperties" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuliu.commontest.CommonTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CookieLoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cookie_login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuliu.cookie_login.CookieLoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CsrfSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-security-csrf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.csrfsecurity.CsrfSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-customauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuliu.custom_auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuliu.custom_auth.CustomApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtLoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jwt_login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuliu.jwt_login.JwtLoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManydatasourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="manydatasource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuliu.manydatasource.ManydatasourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SessionLoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="session_login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuliu.session_login.SessionLoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityWeb" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-web-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuliu.springsecurityweb.SpringSecurityWeb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TokenLoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="token_login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuliu.token_login.TokenLoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CustomerUserNameAuthenticationProvider" />
+      <item itemvalue="Application.MD5Util" />
+      <item itemvalue="JUnit.CommonTestApplicationTests.testException" />
+      <item itemvalue="JUnit.CommonTestApplicationTests.testProperties" />
+      <item itemvalue="Spring Boot.CommonTestApplication" />
+      <item itemvalue="Spring Boot.SessionLoginApplication" />
+      <item itemvalue="Spring Boot.TokenLoginApplication" />
+      <item itemvalue="Spring Boot.JwtLoginApplication" />
+      <item itemvalue="Spring Boot.CsrfSecurityApplication" />
+      <item itemvalue="Spring Boot.ManydatasourceApplication" />
+      <item itemvalue="Spring Boot.SpringSecurityWeb" />
+      <item itemvalue="Spring Boot.CookieLoginApplication" />
+      <item itemvalue="Spring Boot.CustomApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CustomApplication" />
+        <item itemvalue="JUnit.CommonTestApplicationTests.testProperties" />
+        <item itemvalue="Application.MD5Util" />
+        <item itemvalue="JUnit.CommonTestApplicationTests.testException" />
+        <item itemvalue="Application.CustomerUserNameAuthenticationProvider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.16390729" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.execution.dashboard.RunDashboardServiceViewContributor@636ae66c" type="d2cb1801:ServiceModel$ContributorNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.execution.dashboard.RunDashboardServiceViewContributor@636ae66c" type="d2cb1801:ServiceModel$ContributorNode" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.execution.dashboard.RunDashboardServiceViewContributor@636ae66c" type="d2cb1801:ServiceModel$ContributorNode" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+          <option name="groupByContributor" value="true" />
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6bc7d4a-e3e1-4e2b-9ba7-c1ff2e52d7fb" name="Default Changelist" comment="" />
+      <created>1654694770708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654694770708</updated>
+      <workItem from="1654694775121" duration="1386000" />
+      <workItem from="1654696416071" duration="1218000" />
+      <workItem from="1654697669730" duration="2885000" />
+      <workItem from="1654779299726" duration="3147000" />
+      <workItem from="1654868473072" duration="11202000" />
+      <workItem from="1654957789415" duration="7147000" />
+      <workItem from="1656233291991" duration="18513000" />
+      <workItem from="1656327200709" duration="10900000" />
+      <workItem from="1656749731263" duration="19681000" />
+      <workItem from="1657104011886" duration="8120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="5" key="#Inspections" timestamp="1657105469303">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="5" key="#Inspections/0.0.1280.689@0.0.1280.689" timestamp="1657105469303" />
+    <state x="233" y="5" key="#Project_Structure" timestamp="1656341531461">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="5" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1656341531461" />
+    <state x="163" y="1" width="1117" height="687" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1654958970711">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="163" y="1" width="1117" height="687" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1654958970711" />
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1657119480655">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1657119480655" />
+    <state x="215" y="262" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1654961311035">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="215" y="262" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689@0.0.1280.689" timestamp="1654961311035" />
+    <state x="412" y="206" width="485" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1654961374893">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="412" y="206" width="485" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.689@0.0.1280.689" timestamp="1654961374893" />
+    <state x="371" y="93" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1657117954482">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="93" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1657117954482" />
+    <state x="421" y="101" key="FileChooserDialogImpl" timestamp="1657122584529">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="101" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1657122584529" />
+    <state width="1009" height="195" key="GridCell.Tab.0.bottom" timestamp="1657120482427">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1657120482427" />
+    <state width="1009" height="195" key="GridCell.Tab.0.center" timestamp="1657120482426">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1657120482426" />
+    <state width="1009" height="195" key="GridCell.Tab.0.left" timestamp="1657120482426">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1657120482426" />
+    <state width="1009" height="195" key="GridCell.Tab.0.right" timestamp="1657120482427">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1657120482427" />
+    <state width="1009" height="195" key="GridCell.Tab.1.bottom" timestamp="1657120469841">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1657120469841" />
+    <state width="1009" height="195" key="GridCell.Tab.1.center" timestamp="1657120469841">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1657120469841" />
+    <state width="1009" height="195" key="GridCell.Tab.1.left" timestamp="1657120469841">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1657120469841" />
+    <state width="1009" height="195" key="GridCell.Tab.1.right" timestamp="1657120469841">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1657120469841" />
+    <state width="1009" height="195" key="GridCell.Tab.2.bottom" timestamp="1657120443280">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.2.bottom/0.0.1280.689@0.0.1280.689" timestamp="1657120443280" />
+    <state width="1009" height="195" key="GridCell.Tab.2.center" timestamp="1657120443280">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.2.center/0.0.1280.689@0.0.1280.689" timestamp="1657120443280" />
+    <state width="1009" height="195" key="GridCell.Tab.2.left" timestamp="1657120443279">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.2.left/0.0.1280.689@0.0.1280.689" timestamp="1657120443279" />
+    <state width="1009" height="195" key="GridCell.Tab.2.right" timestamp="1657120443280">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1009" height="195" key="GridCell.Tab.2.right/0.0.1280.689@0.0.1280.689" timestamp="1657120443280" />
+    <state x="171" y="1" key="Maven.ArtifactSearchDialog" timestamp="1654697270975">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="171" y="1" key="Maven.ArtifactSearchDialog/0.0.1280.689@0.0.1280.689" timestamp="1654697270975" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1657104054693">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1657104054693" />
+    <state x="362" y="87" width="540" height="524" key="StructurePopup" timestamp="1656343077587">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="362" y="87" width="540" height="524" key="StructurePopup/0.0.1280.689@0.0.1280.689" timestamp="1656343077587" />
+    <state x="334" y="171" key="com.intellij.ide.util.TipDialog" timestamp="1657104011715">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="334" y="171" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1657104011715" />
+    <state x="200" y="82" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1657120168724">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="200" y="82" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.689@0.0.1280.689" timestamp="1657120168724" />
+    <state x="330" y="77" width="623" height="536" key="find.popup" timestamp="1657105071491">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="330" y="77" width="623" height="536" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1657105071491" />
+    <state x="51" y="48" key="new project wizard" timestamp="1656771060355">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="51" y="48" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1656771060355" />
+    <state x="527" y="51" width="672" height="678" key="search.everywhere.popup" timestamp="1656345773604">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="527" y="51" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1656345773604" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-web-security/src/main/java/com/liuliu/springsecurityweb/service/MyUserDetailsService.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-customauth/src/main/java/com/liuliu/custom_auth/security/CustomerOtherAuthenticationProvider.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-customauth/src/main/java/com/liuliu/custom_auth/security/filter/JwtAuthenticationFilter.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-customauth/src/main/java/com/liuliu/custom_auth/controller/TestController.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-customauth/src/main/java/com/liuliu/custom_auth/service/impl/OtherRoleListServiceImpl.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-customauth/src/main/java/com/liuliu/custom_auth/service/impl/OtherLoginServiceImpl.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-customauth/src/main/java/com/liuliu/custom_auth/controller/LoginOtherController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common2/src/main/java/com/liuliu/common_util/globalexception/GlobalExceptionHandler.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-customauth/src/main/java/com/liuliu/custom_auth/security/CustomerOtherAuthenticationProvider.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
